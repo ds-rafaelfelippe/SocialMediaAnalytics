@@ -4,6 +4,8 @@ Este é um projeto de Processamento de Linguagem Natural (PLN).
 
 O conjunto de dados utilizado está disponível [neste link](https://www.kaggle.com/c/i2a2-nlp-2021-sentiment-analysis/data). 
 
+Para visualizar o script com o código completo acesse [esse link](https://ds-rafaelfelippe.github.io/projetos/Projeto_SocialMediaAnalytics.html).
+
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 # Entendimento do Negócio
